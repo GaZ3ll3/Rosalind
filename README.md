@@ -1,0 +1,4 @@
+Rosalind
+========
+
+naive solutions
