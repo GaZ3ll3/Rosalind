@@ -1,0 +1,14 @@
+(f,((d,((a,b),c)),e))g;
+f g
+
+(f,((d,((a,b),c)),e))g;
+f a
+
+(cat)dog;
+cat dog
+
+(cat,dog);
+cat dog
+
+(((((a)b)c)d)e)f;
+a f
